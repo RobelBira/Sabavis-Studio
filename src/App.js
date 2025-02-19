@@ -10,6 +10,7 @@ import Careers from './pages/Careers';
 import Contact from './pages/Contact';
 
 function App() {
+  
   return (
     <Router>
       <Routes>
